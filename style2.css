@@ -1,0 +1,17 @@
+body {
+   text-align: center;
+  background-image: url("plane2.jpg");
+}
+h1 {
+  color: blue;
+}
+p1 {
+  color: lightgreen;
+}
+p2 {
+	color:orange;
+}
+
+p3 {
+   color: red;
+}

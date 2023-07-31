@@ -1,0 +1,13 @@
+body {
+   text-align: center;
+   background-image: url("plane.jpg");
+}
+h1 {
+  color: blue;
+}
+p1 {
+  color: purple;
+}
+p2 {
+	color: red;
+}
